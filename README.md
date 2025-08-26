@@ -11,17 +11,12 @@ ALIVE :
 -->
 <p align="left">
   <img src="anna.png" align="right" width="130" />
-  ( > ͜ʖ <) ✌ <br>
+  ✌ <br>
 
-[![wakatime](https://wakatime.com/badge/user/61adc4fc-dd1b-43be-a6ef-482ed0fe8ec3.svg?style=social)](https://wakatime.com/@tohirdjons) <br>
+[![wakatime]() <br>
 
 
-<br>
-<br>
-  ♫ The Neighbourhood - Softcore ♫ <br>
-  ──⚪️─────────────────────────────────── <br>
-  ◄◄ ▐▐⠀►►            0:05 / 3:50 ───○ 🔊   ⚙️
-</p>
+
 
 <!--
 **justlivefree/justlivefree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

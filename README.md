@@ -1,7 +1,30 @@
-## Hi there 👋
+<!--## Hi there 👋
+
+Backend Developer | Python & Django  <br>
+Curently learning Java
+
+<hr>
+
+ALIVE :
+ﮩ٨ـﮩﮩ٨ﮩـ٨ـﮩﮩ٨ـ
+<br>
+-->
+<p align="left">
+  <img src="anna.png" align="right" width="130" />
+  ( > ͜ʖ <) ✌ <br>
+
+[![wakatime](https://wakatime.com/badge/user/61adc4fc-dd1b-43be-a6ef-482ed0fe8ec3.svg?style=social)](https://wakatime.com/@tohirdjons) <br>
+
+
+<br>
+<br>
+  ♫ The Neighbourhood - Softcore ♫ <br>
+  ──⚪️─────────────────────────────────── <br>
+  ◄◄ ▐▐⠀►►            0:05 / 3:50 ───○ 🔊   ⚙️
+</p>
 
 <!--
-**elbekovich07/elbekovich07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**justlivefree/justlivefree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

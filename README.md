@@ -10,7 +10,7 @@ ALIVE :
 <br>
 -->
 <p align="left">
-  <img src="anna.png" align="right" width="130" />
+  <img src="anna(1).png" align="right" width="130" />
   ( > ͜ʖ <) ✌ <br>
 
 

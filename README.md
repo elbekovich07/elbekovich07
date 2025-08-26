@@ -13,8 +13,7 @@ ALIVE :
   <img src="anna.png" align="right" width="130" />
   ✌ <br>
 
-[![wakatime]() <br>
-
+<a href="https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c"><img src="https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg" alt="Total time coded since Jul 18 2025" /></a>
 
 
 

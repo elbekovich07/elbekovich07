@@ -14,7 +14,7 @@ ALIVE :
   𝒰ʹ <br>
 
 
-<a href="https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c"><img src="https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg" alt="Total time coded since Jul 18 2025" /></a>
+[<a href="https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c"><img src="https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg" alt="Total time coded since Jul 18 2025" /></a>](https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg)
 
 <!--
 **justlivefree/justlivefree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

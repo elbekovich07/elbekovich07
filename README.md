@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="200" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" width="200" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="150" />
 </p>

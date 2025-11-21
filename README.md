@@ -27,8 +27,7 @@
 </p>
 
 
-https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg
-
+[![wakatime](https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg)](https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c)
 
 
 ![Snake animation](https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg)

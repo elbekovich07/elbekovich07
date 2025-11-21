@@ -9,8 +9,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="80" />
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg)](https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c)
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" height="40" />
@@ -28,6 +26,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" />
 </p>
 
+
+[![wakatime](https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg)](https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c)
 
 
 

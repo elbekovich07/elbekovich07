@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="80" />
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg)](https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c)
 
 
 <p align="center">

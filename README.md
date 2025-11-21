@@ -32,17 +32,18 @@
 
 <p align="center">
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="25" width="25" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="25" width="25" style="fill:#E4405F;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="25" width="25" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="25" width="25" style="fill:#0088CC;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="25" width="25" style="fill:#0A66C2;" />
   </a>
 </p>
+
 
 
 

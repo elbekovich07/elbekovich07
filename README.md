@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Olmos Normuminov
 
 
 <p align="center">

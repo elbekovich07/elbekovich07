@@ -30,6 +30,21 @@
 [![wakatime](https://wakatime.com/badge/user/16facae8-f7c3-4337-9eaa-c0b11b6a495c.svg)](https://wakatime.com/@16facae8-f7c3-4337-9eaa-c0b11b6a495c)
 
 
+<p align="center">
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+</p>
+
+
 ![Snake animation](https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg)
 
 

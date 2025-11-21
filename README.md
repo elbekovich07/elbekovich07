@@ -31,16 +31,19 @@
 
 
 <p align="center">
+  <!-- Instagram kvadrat, rangli -->
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="30" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <!-- Telegram kvadrat, rangli -->
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="30" width="30" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <!-- LinkedIn kvadrat, rangli -->
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
 </p>
 

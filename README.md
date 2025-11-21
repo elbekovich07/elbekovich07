@@ -31,21 +31,22 @@
 
 
 <p align="center">
-  <!-- Instagram kvadrat, rangli -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" width="30" style="fill:#E4405F;" />
   </a>
   &nbsp;&nbsp;
-  <!-- Telegram kvadrat, rangli -->
+  <!-- Telegram -->
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="30" width="30" style="fill:#0088CC;" />
   </a>
   &nbsp;&nbsp;
-  <!-- LinkedIn kvadrat, rangli -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" width="30" style="fill:#0A66C2;" />
   </a>
 </p>
+
 
 
 

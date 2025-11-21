@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/olmos-normuminov-954b30361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
 </p>

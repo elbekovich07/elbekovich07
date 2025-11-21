@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="350" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="250" />
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="200" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="150" />
 </p>
 
 

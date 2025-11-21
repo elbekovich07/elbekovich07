@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
   </a>
   &nbsp;
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/elbekovich_017" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
   </a>
   &nbsp;

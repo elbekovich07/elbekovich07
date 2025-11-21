@@ -3,7 +3,8 @@
 
 
 
-https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg)
 
 
 

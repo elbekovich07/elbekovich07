@@ -32,17 +32,18 @@
 
 <p align="center">
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="25" width="25" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="25" width="25" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25" />
   </a>
 </p>
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg)
